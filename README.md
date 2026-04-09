@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Ravi%20Kumar%20Vanama&fontSize=42&fontColor=e94560&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Product%20Owner%20%7C%20Automotive%20ADAS&descSize=18&descColor=ffffff&descAlignY=55&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Ravi%20Kumar%20Vanama&fontSize=42&fontColor=e94560&fontAlignY=35&desc=Technical%20Product%20Owner%20%7C%20Software%20Engineering%20%7C%20Simulation%20%26%20Testing&descSize=18&descColor=ffffff&descAlignY=55&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
@@ -11,7 +11,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RAVIVANAMA&style=flat-square&color=0f3460&label=Profile+Views" />&nbsp;
   <img src="https://img.shields.io/badge/Experience-13%2B%20Years-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Domain-Automotive%20ADAS-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-Technical%20Product%20Owner-e94560?style=flat-square" />
+  <img src="https://img.shields.io/badge/Domain-Open%20to%20All%20Industries-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Germany%20🇩🇪-black?style=flat-square" />
   <img src="https://img.shields.io/badge/Work%20Authorization-Permanent%20Residence-green?style=flat-square" />
 </p>
@@ -20,23 +21,33 @@
 
 ## 🧑‍💼 Professional Summary
 
-Senior Software Engineer and Technical Product Owner with **13+ years** developing automotive ADAS **SIL simulation platforms** and **automated testing frameworks** for BMW, Tata Motors, and Nissan.
+**Technical Product Owner** with **13+ years** of hands-on software engineering and product leadership experience. Proven track record building large-scale **simulation platforms**, **automated testing frameworks**, and **cloud-integrated systems** across organizations like Continental, Bosch, and Mercedes-Benz.
 
-Owned product vision and roadmap for the *Open Loop Simulation Automated Parking* platform, defining release strategy and feature prioritization. Expert in:
+I bridge the gap between **engineering depth** and **product strategy** — translating complex technical requirements into actionable roadmaps, leading cross-functional teams, and delivering measurable business outcomes.
 
-- 🔬 **Simulation architecture** and end-to-end testing frameworks
-- 🚗 **Perception & Sensor Fusion validation** (Radar, Camera, Ultrasonic)
-- ⚙️ **CI/CD integration** (Jenkins, Docker) and data-driven quality measurement
-- 📉 Achieved **20–30% reduction** in vehicle testing per program through comprehensive automated testing strategies
+### 🎯 What I Bring to Any Domain
+
+- 📋 **Product Ownership** — Vision, roadmap, backlog prioritization, release strategy, stakeholder alignment
+- 🏗️ **Technical Architecture** — Hands-on C/C++, Python; system design; cloud-native architectures (AWS)
+- 🧪 **Quality Engineering** — End-to-end test automation, CI/CD pipelines, data-driven quality KPIs
+- 👥 **Team Leadership** — Led cross-functional teams of 5–10 engineers; Agile/SAFe certified
+- 📉 Achieved **20–30% reduction** in physical testing costs through automation and simulation strategies
+- 🔁 Cut release cycles from **2 weeks → 3 days** via CI/CD and process optimization
+
+### 🏭 Domain Experience
+
+> While my deep expertise is in **Automotive ADAS & Simulation**, my core skills — product ownership, software architecture, test automation, CI/CD, cloud integration, and team leadership — are **directly transferable** across industries:
+
+`Automotive` · `Robotics` · `IoT` · `Industrial Automation` · `Aerospace & Defense` · `MedTech` · `FinTech` · `SaaS Platforms`
 
 ---
 
 ## � What I'm Currently Working On
 
-- 🚗 Building next-gen **Open Loop Simulation** platform for Automated Parking at Continental
-- ☁️ Scaling SIL infrastructure on **AWS (EKS, S3)** for distributed simulation workloads
+- 🎯 Leading product ownership of a **cloud-native simulation platform** at Continental
+- ☁️ Scaling infrastructure on **AWS (EKS, S3)** for distributed simulation workloads
 - 🤖 Integrating **AI-powered code review** and automated defect detection into CI/CD
-- 📚 Currently exploring: **Rust for safety-critical automotive systems** · **AUTOSAR Adaptive on Kubernetes**
+- 📚 Currently exploring: **Rust for systems programming** · **Kubernetes-native product platforms** · **GenAI for developer productivity**
 
 ---
 
@@ -69,14 +80,14 @@ Owned product vision and roadmap for the *Open Loop Simulation Automated Parking
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![JFrog](https://img.shields.io/badge/JFrog%20Artifactory-41BF47?style=flat-square&logo=jfrog&logoColor=white)
 
-### 🚘 Automotive Protocols & Platforms
+### 🏭 Domain-Specific Expertise
 | Category | Technologies |
 |----------|-------------|
-| Protocols | CAN, CAN FD, FlexRay, Ethernet, UART, SOME/IP, DDS, Protobuf |
+| Automotive Protocols | CAN, CAN FD, FlexRay, Ethernet, UART, SOME/IP, DDS, Protobuf |
 | Platforms & Tools | RTOS, QNX, CANoe, Lauterbach T32, AUTOSAR (Classic/Adaptive), ROS2, FMU/FMI, ADTF |
-| Standards | ISO 26262, ASPICE, ADAS |
+| Standards & Compliance | ISO 26262, ASPICE, ADAS |
 | Databases & OS | SQL, PostgreSQL, Windows, Linux (Ubuntu) |
-| Management Tools | Jira, Confluence, DOORS, IBM Jazz |
+| Product & Project Tools | Jira, Confluence, DOORS, IBM Jazz, Miro, Figma |
 
 ---
 
@@ -114,10 +125,10 @@ Owned product vision and roadmap for the *Open Loop Simulation Automated Parking
 
 ```mermaid
 timeline
-    title Career Timeline — 13+ Years in Automotive Software
+    title Career Timeline — From Engineer to Technical Product Owner
     2011-2013 : 🚇 Simulation Engineer
               : L&T IES, Bengaluru
-              : Bangalore Metro Cab Simulator
+              : Metro Cab Simulator
     2013-2018 : ⚙️ Senior Software Engineer
               : Bosch GmbH
               : ADTF Tools & SIL Development
@@ -130,15 +141,16 @@ timeline
     2021-2023 : 🧪 Test Engineer & Integrator
               : Continental GmbH, Ulm
               : Automated Testing Framework
-    2024-Present : 🎯 Product Owner
+    2024-Present : 🎯 Technical Product Owner
                  : Continental (AUMOVIO), Ulm
-                 : Automated Parking Simulation
+                 : Cloud Simulation Platform
 ```
 
-### 🏢 Product Owner — AUMOVIO (Continental GmbH), Ulm
-**Jan 2024 – Present** · *Automated Parking (Open Loop Simulation)*
+### 🏢 Technical Product Owner — AUMOVIO (Continental GmbH), Ulm
+**Jan 2024 – Present** · *Cloud-Native Simulation Platform*
 
-- 🎯 Owned product vision/roadmap; defined release strategy and feature prioritization for **6-person** cross-functional team
+- 🎯 Owned **product vision, roadmap & release strategy**; prioritized backlog and aligned stakeholders across business, engineering & validation
+- 👥 Led cross-functional team of **6 engineers** across development, testing, and cloud integration
 - 🏗️ Architected C/C++ & Python simulation platform with **AWS cloud integration**, reducing setup time by **40%**
 - 🔁 Built Jenkins CI/CD pipelines cutting release cycles from **2 weeks → 3 days**; introduced AI-powered PR review
 
@@ -225,7 +237,7 @@ timeline
 </p>
 
 <p align="center">
-  <b>💡 Open to exciting opportunities in Automotive Software Engineering, ADAS Simulation, and Product Ownership.</b><br/><br/>
+  <b>💡 Open to Technical Product Owner roles across all domains — Automotive, Robotics, IoT, SaaS, FinTech, MedTech & more.</b><br/><br/>
   <a href="mailto:ravikumar.v99@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/ravikumarvanama"><img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge" /></a>&nbsp;
   <a href="RAVI_KUMAR_VANAMA_CV_PO.pdf"><img src="https://img.shields.io/badge/📄_Download_CV-2ea44f?style=for-the-badge" /></a>
