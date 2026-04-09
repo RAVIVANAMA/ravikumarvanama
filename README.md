@@ -20,7 +20,7 @@
 
 ## 🧑‍💼 Professional Summary
 
-Senior Software Engineer and Product Owner with **13+ years** developing automotive ADAS **SIL simulation platforms** and **automated testing frameworks** for BMW, Tata Motors, and Nissan.
+Senior Software Engineer and Technical Product Owner with **13+ years** developing automotive ADAS **SIL simulation platforms** and **automated testing frameworks** for BMW, Tata Motors, and Nissan.
 
 Owned product vision and roadmap for the *Open Loop Simulation Automated Parking* platform, defining release strategy and feature prioritization. Expert in:
 
